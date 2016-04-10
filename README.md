@@ -1,4 +1,2 @@
 # ameture-work
-fidfhifd
-dhbjdrogjdroig
-drlgjroigjrdoi
+learning github
