@@ -1,1 +1,2 @@
 # ameture-work
+learning github
